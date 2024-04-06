@@ -1,4 +1,5 @@
-***Bem-vindo ao Sound Sync!*** Este projeto tem como objetivo criar uma base padrão de um aplicativo de música, girando em torno de bandas e suas avaliações!
+***Bem-vindo ao Sound Sync!*** 
+Este projeto tem como objetivo criar uma base padrão de um aplicativo de música, girando em torno de bandas e suas avaliações!
 
 Funcionalidades Principais: 
 
